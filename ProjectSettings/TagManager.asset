@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BoxSpawnPoint
+  - Box
+  - SceneManager
+  - Canvas
+  - Grass
+  - MenuMusic
+  - AudioToBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - OnGround
+  - Effects
+  - Player
+  - GameUI
+  - IgnoreProjectiles
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2398691915
+    locked: 0
+  - name: OnGround
+    uniqueID: 2551283031
+    locked: 0
+  - name: AboveGround
+    uniqueID: 1938421187
+    locked: 0
+  - name: Text
+    uniqueID: 2224155923
+    locked: 0
